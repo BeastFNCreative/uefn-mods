@@ -1,6 +1,9 @@
 # uefn-mods
 Simple to use Mods to apply to UEFN (Unreal Editor for Fortnite)
 
+## UPDATE:
+As of 35.00 the filename is unified, so from now on you will only need to replace the file every update.
+
 # Tutorial
 
 1. Download the latest UEFN-ExposeAll File.
